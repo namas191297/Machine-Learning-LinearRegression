@@ -6,7 +6,7 @@ module.
 
 Dependencies used :
 
-matplotlib - Used to plot the graph and show the regression line and the goodness of the fit.
+matplotlib - Used to plot the graph and show the regression line and the goodness of the fit.\n
 pandas - Used to perform data operations and read information from the dataset.
 numpy - General mathematical operations
 Sklearn - To carry out operations on the data such as regression using the built-in functionalities.
